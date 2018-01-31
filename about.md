@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+This is my personal homepage using Jekyll. As of now I'm still learning how to use it, but once the learning is done I will keep posting fancier stuffs here.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+<- To be continued.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[ASU Mail](mailto:yluo97@asu.edu)
