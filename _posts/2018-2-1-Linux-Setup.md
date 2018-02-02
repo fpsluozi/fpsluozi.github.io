@@ -4,10 +4,10 @@ title: General.asu LINUX Setup
 ---
 Below are the tool bundles for coding on ASU's remote Linux server.
 
-Your OS | Command Line | File Transfer | Text Editor
---- | --- | --- | ---
+**Your OS** | **Command Line** | **File Transfer** | **Text Editor**
+:--- | :--- | :--- | :---
 **Windows** | [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/) | [WinSCP](https://winscp.net/eng/index.php)| [Notepad++](https://notepad-plus-plus.org/)
-**MacOS** | Terminal / [iTerm](https://www.iterm2.com) | [Cyberduck](https://cyberduck.io) | [Sublime Text](https://www.sublimetext.com) / [VS Code](https://code.visualstudio.com) (Also available for Windows)
+**MacOS** | Terminal / [iTerm](https://www.iterm2.com) | [Cyberduck](https://cyberduck.io) | [Sublime Text](https://www.sublimetext.com) / [VS Code](https://code.visualstudio.com) 
 **Linux (Hardcore)** | Terminal | scp | vi / emacs
 
 Additional notes
