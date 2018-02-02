@@ -2,7 +2,6 @@
 layout: post
 title: General.asu LINUX Setup 
 ---
-
 Below are the tool bundles for coding on ASU's remote Linux server.
 
 Your OS | Command Line | File Transfer | Text Editor
