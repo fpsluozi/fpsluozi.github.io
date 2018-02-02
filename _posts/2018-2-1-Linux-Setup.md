@@ -1,6 +1,6 @@
 ---
 layout: post
-title: \[Teaching\] General.asu LINUX Setup 
+title: [Teaching] General.asu LINUX Setup 
 ---
 
 Below are the tool bundles for coding on ASU's remote Linux server.
