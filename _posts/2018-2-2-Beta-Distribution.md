@@ -6,7 +6,7 @@ Below are the 3 exercise problems discussed in class regarding the Beta Distribu
 
 Exercise 1 - Derivation of conjugate distribution
 ---
-Coin flip. Benoulli Trails. Derive that the posterior and prior of the Beta distribution are [conjugate distributions](https://en.wikipedia.org/wiki/Conjugate_prior){:target="_blank"}.
+Coin flip. Bernoulli Trials. Derive that the posterior and prior of the Beta distribution are [conjugate distributions](https://en.wikipedia.org/wiki/Conjugate_prior){:target="_blank"}.
 
 **Derivation** 
 
