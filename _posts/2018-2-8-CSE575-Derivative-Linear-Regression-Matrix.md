@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  CSE 575 The Residual Error Matrix in Linear Regression
+title:  CSE 575 The Residual Error Problem in Linear Regression
 categories: [CSE575,linear-algebra,calculus]
 ---
 
@@ -10,7 +10,7 @@ Following [the previous article](/CSE575-Derivative-Linear-Regression), we now w
 
 ## Derivation
 
-Let matrix $$A$$ be the hypothesis space matrix, which consists of the basis column vectors/basis functions. $$y$$ is our target, i.e. we are given instances <$$\bf{x_i}, \bf{y_i}$$>. We need to figure out an optimal weight vector $$w$$ such that the residual squared error (LSE) is at minimal.
+Let matrix $$A$$ be the hypothesis space matrix, which consists of the basis column vectors/basis functions. $$y$$ is our target, i.e. we are given instances <$$\bf{x_i}, \bf{y_i}$$>. We need to figure out an optimal weight vector $$w$$ such that the residual squared error (LSE) is minimal.
 
 $$
 \begin{equation*}
