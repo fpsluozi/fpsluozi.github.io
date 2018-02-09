@@ -78,7 +78,7 @@ $$
 			 = \begin{bmatrix} b^Ta_1 \\ \vdots \\ b^Ta_n \end{bmatrix}
 			 = \begin{bmatrix} a_1^Tb \\ \vdots \\ a_n^Tb \end{bmatrix}
 			 = \begin{bmatrix} a_1^T \\ \vdots \\ a_n^T \end{bmatrix} b 
-			 = A^Tb
+			 = A^Tb \qquad (5)
 $$
 
 Derivation complete!
