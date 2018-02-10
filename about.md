@@ -8,16 +8,16 @@ Howdy. My name is Yiran Luo (罗 怡然), or simply Lawrence, which is my handle
 
 ## Professional Info
 
-###Education: 
+### Education: 
 * Arizona State University. Ph.D. (Jan. 2018 - now)
 * The Ohio State University. B.S and M.S. (Sept. 2008 - Dec. 2012, Aug. 2014 - May. 2016)
 
-###Career experience: 
+### Career experience: 
 * Nanjing Institute of Geology and Palaeontology/NIGPAS. Machine Learning Expert. (Jan. 2017 - Sept. 2017)
 * IBM Research China. Research Intern. (Jun. 2016 - Sept. 2016)
 * Point Up Ltd. Techincal Expert. (Jan. 2013 - Jun. 2014)
 
-###Skills
+### Skills
 * Python, C++
 * Statistical Machine Learning, Natural Langauge Processing, Data Mining, Data Visualization, Linear Algebra
 * Keras, Tensorflow, Theano, Sklearn, PyTorch, OpenNMT
