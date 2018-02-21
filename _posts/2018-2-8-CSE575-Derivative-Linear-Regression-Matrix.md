@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  CSE 575 The Residual Error Problem in Linear Regression
-categories: [CSE575,linear-algebra,calculus]
+title:  CSE 575 Logistic Regression, Intuitions
+categories: [CSE575, regression, machine-learning]
 ---
 
 *This article is originally written in Chinese. Permission to translate has been granted by the author. The link to the orginal post is [here](http://bourneli.github.io/linear-algebra/calculus/2016/04/30/linear-algebra-12-linear-regression-matrix-calulation.html). Notice this article uses different symbols from the in-class notes, so do feel free to substitute.*
