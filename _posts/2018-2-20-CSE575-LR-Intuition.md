@@ -115,4 +115,4 @@ L(w) = \log(\prod^k_{i=1}P(Y_i=1 \mid X_i)^{Y_i}P(Y_i=0 \mid X_i)^{1-Y_i}) \\
 \end{equation*}
 $$
 
-Now we can solve $$\underset{w}{\operatorname{argmax}}L(w) $$ or $$$$\underset{w}{\operatorname{argmin}}-L(w)$$ by bringing in (1) and (2) and taking partial derivatives.
+Now we can solve $$\underset{w}{\operatorname{argmax}}L(w) $$ or $$\underset{w}{\operatorname{argmin}}-L(w)$$ by bringing in (1) and (2) and taking partial derivatives.
