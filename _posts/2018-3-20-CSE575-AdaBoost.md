@@ -47,7 +47,7 @@ $$
 
 (2) The minimal weighted training error by $$C_1(x)$$ on the dataset is 
 
-$$\epsilon_1 = P(C_1(x_i) \neq y_i) = \sum^{N}_{i=1}w_{ti}I(C_1(x_i) \neq y_i) = 0.3$$
+$$\epsilon_1 = P(C_1(x_i) \neq y_i) = \sum^{N}_{i=1}w_{1, i}I(C_1(x_i) \neq y_i) = 0.3$$
 
 where I() is the [indicator function](https://en.wikipedia.org/wiki/Indicator_function).
 
