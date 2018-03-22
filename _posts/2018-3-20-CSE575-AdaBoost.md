@@ -4,7 +4,7 @@ title:  CSE 575 AdaBoost, Intuition
 categories: [CSE575, boosting]
 ---
 
-This post is going to share some of my own thoughts on the concept of AdaBoost. Notice it is not going to be superbly rigid, but rather I'd like build up some intuition.
+This post is going to share some of my own thoughts on the concept of AdaBoost. Notice it is not going to be superbly rigid, but rather I'd like build up some intuition. 
 
 First things first, there is this wonderful AdaBoost guide by some fine gentlement from CMU that you can refer to anytime: [CMU 10701 Lecture 10](https://www.cs.cmu.edu/~aarti/Class/10701/slides/Lecture10.pdf)
 
