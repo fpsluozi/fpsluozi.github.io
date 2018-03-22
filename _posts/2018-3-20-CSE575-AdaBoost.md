@@ -11,7 +11,7 @@ First things first, there is this wonderful AdaBoost guide by some fine gentleme
 Next, I will go through the AdaBoost question from Homework Assignment 2 so as to demonstrate the procedure AdaBoost takes by each step. In the following demo I will show how to proceed in Iteration 1 and Iteration 2.
 
 ## A Brief Walkthrough
-Recall we have the following 1-D training dataset and the sole weak classifier C. Also recall each sample is assigned with an initial weight of 0.1 .
+Recall we have the following 1-D training dataset and the sole weak classifier C. Also recall each sample is assigned with an initial weight of $$\frac{1}{N}=0.1 $$ .
 
 $$
 
@@ -36,7 +36,7 @@ D_1 = (w_{1,1}, w_{1,2}, ... , w_{1 ,10})\\=(0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 
 $$
 
 ### Iteration t=1
-(1) The initial threshold $$\theta=2.5$$, which minimizes the weighted training error, is given to you. So at such $$C_1(x)$$, we have the current optimal weak classifier as
+(1) The initial threshold $$\theta=2.5$$, which minimizes the current weighted training error, is given to you. So at such $$C_1(x)$$, we have the current optimal weak classifier as
 
 $$
 C_1(x)=\begin{cases}
