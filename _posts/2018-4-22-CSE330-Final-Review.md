@@ -20,7 +20,7 @@ Scheduling
 * [Notes from U of Rutgers](https://www.cs.rutgers.edu/~pxk/416/notes/07-scheduling.html){:target="_blank"}
 * Gantt chart, CPU burst vs IO burst: 
 <p align="center"> 
-![Gantt chart](../images/cpu-burst.png) 
+<img src="../images/cpu-burst.png">
 </p>
 
 Kernel Mode/User Mode
