@@ -51,7 +51,7 @@ Memory Management and Paging
 * [Page Replacement Algortihrms by Prof. Emmett Witchel of U Texas](http://www.cs.utexas.edu/users/witchel/372/lectures/16.PageReplacementAlgos.pdf){:target="_blank"}
 * [Paging notes from U of New Hampshire](http://www.cs.unh.edu/~jlw/cs610/notes/paging.pdf){:target="_blank"}
 * [Belady’s Anomaly w/ FIFO worksheet from ESC 150, UC-Davis](http://nob.cs.ucdavis.edu/classes/ecs150-2008-02/handouts/memory/mm-belady.pdf){:target="_blank"}
-* [Slides from UCSD CSE240a](https://cseweb.ucsd.edu/classes/fa10/cse240a/pdf/08/CSE240A-MBT-L18-VirtualMemory.ppt.pdf){:target="_blank"}
+* [Virtual Memory slides from UCSD CSE240a](https://cseweb.ucsd.edu/classes/fa10/cse240a/pdf/08/CSE240A-MBT-L18-VirtualMemory.ppt.pdf){:target="_blank"}
 
 Deadlock
 ---
