@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  CSE 575 Logistic Regression, Intuitions
+title:  CSE 575 Linear Regression, Residual Error
 categories: [CSE575, regression, machine-learning]
 ---
 
