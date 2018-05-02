@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CSE 575 D-Seperation, Conditional Independence, Intuition
+title: CSE 575 D-Separation, Conditional Independence, Intuition
 ---
 In this post, I will offer you some intuitive understanding about the d-separation in Graphical Models, esp. in Bayes Network (BN). It covers the ideas of conditional independence and local Markov condition. The note is motivated by PRML Chap 8.2 and Question 3 in Assignment 3. 
 
